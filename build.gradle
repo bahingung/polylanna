@@ -1,5 +1,10 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
+//<<<<<<< HEAD
 // ROV //555 ROV //888
+//=======
+// ROV //555 ROV แก้รอบที่ 2
+//>>>>>>> ba4838e6bfeb3e88a8baf588113d600be9533155
+//bill
 buildscript {
     ext.kotlin_version = '1.1.51'
     repositories {
